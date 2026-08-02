@@ -2,7 +2,7 @@
     "name": "CXT STUDIO 12E4",
     "vendorId": "0x5754",
     "productId": "0xC401",
-    "lighting": "qmk_rgblight",
+    "lighting": "vialrgb",
     "matrix": {
         "rows": 4,
         "cols": 4
