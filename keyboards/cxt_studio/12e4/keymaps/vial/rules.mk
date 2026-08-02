@@ -1,0 +1,17 @@
+# Vial keymap config for CXT12E4 macropad
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+QMK_SETTINGS = yes
+LTO_ENABLE = yes
+ENCODER_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+
+AVR_USE_MINIMAL_PRINTF = yes
+
+REPEAT_KEY_ENABLE = no
+KEY_OVERRIDE_ENABLE = no
+
+MOUSEKEY_ENABLE = no
+SPACE_CADET_ENABLE = no
+GRAVE_ESC_ENABLE = no   # Not needed on a macropad
+MAGIC_ENABLE = no
